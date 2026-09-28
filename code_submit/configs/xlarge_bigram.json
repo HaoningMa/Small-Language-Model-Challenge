@@ -1,0 +1,11 @@
+{
+  "vocab": 2048,
+  "width": 256,
+  "heads": 8,
+  "depth": 8,
+  "context": 256,
+  "bigram_lambda": 0.08,
+  "bigram_beta": 50.0,
+  "local_cache_lambda": 0.30,
+  "local_cache_k": 2.0
+}
